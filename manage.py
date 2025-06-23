@@ -2,7 +2,7 @@
 import os
 import sys
 
-
+# manage py
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mamar_bank.settings')
